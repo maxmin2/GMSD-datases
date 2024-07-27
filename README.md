@@ -1,2 +1,2 @@
 # GMSD-datases
-geographic mixed segmentation datasets(GMSD)
+public geographic mixed segmentation datasets(GMSD). This dataset includs 
